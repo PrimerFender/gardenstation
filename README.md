@@ -37,4 +37,6 @@ In addition, you can file issues for the purpose of feature requests and bug fix
 
 ## Additional Documentation
 
+---
+
 See the [wiki tab](https://github.com/PrimerFender/gardenstation/wiki) on [GitHub](https://github.com/PrimerFender/gardenstation) to find additional reference documentation.
